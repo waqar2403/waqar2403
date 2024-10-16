@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Waqar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Junaid+Shaukat!&color=32CD32" />
+</h1>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Junaid-Shaukat&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid-Shaukat" />
+
+ <img align="right" alt="coding" height="280" border-radius="1.2" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar2403&label=Profile%20views&color=0e75b6&style=flat" alt="waqar2403" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqar2403" alt="waqar2403" /></a> </p>
