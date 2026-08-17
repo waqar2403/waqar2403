@@ -40,7 +40,7 @@
 
 ## Competitive programming
 
-- Rank 30 at the ICPC Asia-TOPI Regional Contest
+- Rank 30 at the ICPC Asia-TOPI Regionals onsite Contest
 - #9 country-wide and #133 globally at CALICO Fall '25 (UC Berkeley)
 - Bronze Brick at CALICO Fall '24 (UC Berkeley)
 - 2nd Runner-Up at UE Code Quest
