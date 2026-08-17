@@ -11,12 +11,9 @@
 
 **Languages** · C++, TypeScript, Python, Go
 
-**Observability** · OpenTelemetry, traces and spans, semantic conventions, Go compile-time
-instrumentation, `-toolexec` build interception
-
 **Backend & data** · Node.js, Next.js, SQL, PostgreSQL, MongoDB, Redis, Supabase
 
-**Infrastructure** · Docker, Kubernetes, Helm, AWS, Linux
+**Infrastructure** · OpenTelemetry, Docker, Kubernetes, Helm, AWS, Linux
 
 **AI** · RL environments, RLHF and SFT evaluation task design, MCP, LangChain, LangGraph, RAG
 
