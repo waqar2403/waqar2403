@@ -26,12 +26,12 @@ instrumentation, `-toolexec` build interception
 
 | Project | Issues / PRs |
 | --- | --- |
-| [opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) | Issues [#479](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/issues/479) [#578](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/issues/578) [#695](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/issues/695) / PRs [#501](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/501) [#581](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/581) |
-| [opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | Issue [#10578](https://github.com/open-telemetry/opentelemetry.io/issues/10578) / PRs [#10654](https://github.com/open-telemetry/opentelemetry.io/pull/10654) [#10825](https://github.com/open-telemetry/opentelemetry.io/pull/10825) |
-| [vacanza/holidays](https://github.com/vacanza/holidays) | Issue [#1263](https://github.com/vacanza/holidays/issues/1263) / PR [#2608](https://github.com/vacanza/holidays/pull/2608) |
-| [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | Issue [#8184](https://github.com/Apicurio/apicurio-registry/issues/8184) / PR [#8634](https://github.com/Apicurio/apicurio-registry/pull/8634) |
-| [bitcoindevkit/book-of-bdk](https://github.com/bitcoindevkit/book-of-bdk) | PR [#110](https://github.com/bitcoindevkit/book-of-bdk/pull/110) |
-| [devweekends/DW-Fellowship-DSA-Roadmap](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap) | PRs [#10](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap/pull/10) [#15](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap/pull/15) [#20](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap/pull/20) |
+| [opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) | [Issues](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/issues?q=is%3Aissue+involves%3Awaqar2403) / [PRs](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pulls?q=is%3Apr+author%3Awaqar2403) |
+| [opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) | [Issues](https://github.com/open-telemetry/opentelemetry.io/issues?q=is%3Aissue+involves%3Awaqar2403) / [PRs](https://github.com/open-telemetry/opentelemetry.io/pulls?q=is%3Apr+author%3Awaqar2403) |
+| [vacanza/holidays](https://github.com/vacanza/holidays) | [Issues](https://github.com/vacanza/holidays/issues?q=is%3Aissue+involves%3Awaqar2403) / [PRs](https://github.com/vacanza/holidays/pulls?q=is%3Apr+author%3Awaqar2403) |
+| [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) | [Issues](https://github.com/Apicurio/apicurio-registry/issues?q=is%3Aissue+involves%3Awaqar2403) / [PRs](https://github.com/Apicurio/apicurio-registry/pulls?q=is%3Apr+author%3Awaqar2403) |
+| [bitcoindevkit/book-of-bdk](https://github.com/bitcoindevkit/book-of-bdk) | [PRs](https://github.com/bitcoindevkit/book-of-bdk/pulls?q=is%3Apr+author%3Awaqar2403) |
+| [devweekends/DW-Fellowship-DSA-Roadmap](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap) | [PRs](https://github.com/devweekends/DW-Fellowship-DSA-Roadmap/pulls?q=is%3Apr+author%3Awaqar2403) |
 
 ## Writing
 
